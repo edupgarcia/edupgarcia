@@ -5,11 +5,14 @@ I am Eduardo and have over 20 years of experience working with software developm
 - 🔭 I’m currently working on my own company IT Microsystems supporting GescorpGO team as Sysadmin and Software Engineer. I also provide customer support and building Reports with data from GescorpGO Produção and Qualidade Apps.
 - :loudspeaker: I speak native Brazilian Portuguese and English.
 - :scroll: I have ITIL Foundation certification and have worked with Agile (Kanban), Process Mapping, Continuous Improvement (White Belt).
-- 🌱 I’m currently learning Flutter/Dart, Python and JavaScript/ReactJS/ReactNative/Node.
+- 🌱 I’m currently learning Flutter/Dart, Python and JavaScript/ReactJS/ReactNative/Node and also playing arround with Git, VueJS and Rust.
   - Take a look at my repositories:
     - [Flutter/Dart](https://github.com/edupgarcia/Flutter-Course-Resources)
-    - [JavaScript/Node/ReactJS/ReactNative](https://github.com/edupgarcia/Rocketseat-course), [Rocketseat GoStack Node Concepts](https://github.com/edupgarcia/Rocketseat-gostack-node-concepts), [Rocketseat GoStack ReactJS Concepts](https://github.com/edupgarcia/Rocketseat-gostack-reactjs-concepts);
-  - I also played a little bit
+    - [Python/Django](https://github.com/edupgarcia/djangosite)
+    - [JavaScript/Node/ReactJS/ReactNative](https://github.com/edupgarcia/Rocketseat-course), [Rocketseat GoStack Node Concepts](https://github.com/edupgarcia/Rocketseat-gostack-node-concepts), [Rocketseat GoStack ReactJS Concepts](https://github.com/edupgarcia/Rocketseat-gostack-reactjs-concepts)
+    - [Git](https://github.com/edupgarcia/StackSkills)
+    - [VueJS](https://github.com/edupgarcia/VueJS), [Academind](https://github.com/edupgarcia/Academind)
+    -[Rust](https://github.com/edupgarcia/rust-by-example)
 - :computer: I have experience in Windows, Linux, MacOSX, VBA, Access/Excel, C#, Docker, MongoDB, MySQL, PostgreSQL, SQLite, SQL Server,  Power BI, Tableau, R Programming, SharePoint/InfoPath Designers.
 - 👯 I’m looking to collaborate on a project that requires my Software Engineering experience or one I can join as Flutter/Dart or Python beginner.
 - 🤔 I’m looking for help with ...
