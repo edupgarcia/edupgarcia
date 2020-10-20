@@ -12,7 +12,7 @@ I am Eduardo and have over 20 years of experience working with software developm
     - [JavaScript/Node/ReactJS/ReactNative](https://github.com/edupgarcia/Rocketseat-course), [Rocketseat GoStack Node Concepts](https://github.com/edupgarcia/Rocketseat-gostack-node-concepts), [Rocketseat GoStack ReactJS Concepts](https://github.com/edupgarcia/Rocketseat-gostack-reactjs-concepts)
     - [Git](https://github.com/edupgarcia/StackSkills)
     - [VueJS](https://github.com/edupgarcia/VueJS), [Academind](https://github.com/edupgarcia/Academind)
-    -[Rust](https://github.com/edupgarcia/rust-by-example)
+    - [Rust](https://github.com/edupgarcia/rust-by-example)
 - :computer: I have experience in Windows, Linux, MacOSX, VBA, Access/Excel, C#, Docker, MongoDB, MySQL, PostgreSQL, SQLite, SQL Server,  Power BI, Tableau, R Programming, SharePoint/InfoPath Designers.
 - 👯 I’m looking to collaborate on a project that requires my Software Engineering experience or one I can join as Flutter/Dart or Python beginner.
 - 🤔 I’m looking for help with ...
