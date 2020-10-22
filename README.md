@@ -2,7 +2,7 @@
 
 I am Eduardo and have over 20 years of experience working with software development, data analysis and teaching. Which includes ~4 years as a teacher, +1 year working in the USA and ~1 month working in Canada and 2 months of studying at [Hansa Canada](https://hansacanada.com/home/)).
 
-- 🔭 I’m currently working on my own company IT Microsystems supporting GescorpGO team as Sysadmin and Software Engineer. I also provide customer support and building Reports with data from GescorpGO Produção and Qualidade Apps.
+- 🔭 I’m currently working on my own company [IT Microsystems](https://it-microsystems.net) supporting [GescorpGO](https://www.gescorpgo.com/) team as Sysadmin and Software Engineer. I also provide customer support and building Reports with data from GescorpGO Produção and Qualidade Apps.
 - :loudspeaker: I speak native Brazilian Portuguese and English.
 - :scroll: I have ITIL Foundation certification and have worked with Agile (Kanban), Process Mapping, Continuous Improvement (White Belt).
 - 🌱 I’m currently learning Flutter/Dart, Python and JavaScript/ReactJS/ReactNative/Node and also playing arround with Git, VueJS and Rust.
