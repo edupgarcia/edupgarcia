@@ -14,6 +14,7 @@ I am Eduardo and have over 23 years of experience working with software developm
 - I also be able to answer questions about technologies below, once I use them in certain projects.
   - [Python](https://www.python.org/)
   - [Flutter Projects](https://github.com/edupgarcia/flutter-projects)
+  - [HTML CSS JavaScript Projects](https://github.com/edupgarcia/rocketseat)
   - [Linux Shell scripting](https://linux.org/)
   - [Docker](https://www.docker.com/)
   - [Kubernetes](https://kubernetes.io/)
