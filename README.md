@@ -16,6 +16,7 @@ I am Eduardo and have over 23 years of experience working with software developm
   - [Flutter Projects](https://github.com/edupgarcia/flutter-projects)
   - [Lua Porjects](https://github.com/edupgarcia/lua-projects)
   - [HTML CSS JavaScript Projects](https://github.com/edupgarcia/rocketseat)
+  - [Git/Github](https://github.com/edupgarcia/stack-skills)
   - [Rust Projects](https://github.com/edupgarcia/rust-projects)
   - [Linux Shell scripting](https://linux.org/)
   - [Docker](https://www.docker.com/)
