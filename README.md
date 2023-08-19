@@ -35,8 +35,7 @@ I am Eduardo and have over 23 years of experience working with software developm
   - [GO](https://go.dev/)
   - [Lua Porjects](https://github.com/edupgarcia/lua-projects)
   - [SvelteJS](https://svelte.dev/)
-- Non-commercial project
-  I've been working in an non-commercial project to support a NGO called [Albergue Diuturno Alvorecer do Labor](https://adal-navirai.negocio.site
+- Non-commercial project: I've been working in an non-commercial project to support a NGO called [Albergue Diuturno Alvorecer do Labor](https://adal-navirai.negocio.site
 ). I'm creating a web app to help them to manage their hosting and reporting process.
   The project is private to keep their privacy, although, you can know them through their web site.
 - 📫 How to reach me: 
