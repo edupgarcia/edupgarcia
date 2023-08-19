@@ -14,7 +14,9 @@ I am Eduardo and have over 23 years of experience working with software developm
 - I also be able to answer questions about technologies below, once I use them in certain projects.
   - [Python](https://www.python.org/)
   - [Flutter Projects](https://github.com/edupgarcia/flutter-projects)
+  - [Lua Porjects](https://github.com/edupgarcia/lua-projects)
   - [HTML CSS JavaScript Projects](https://github.com/edupgarcia/rocketseat)
+  - [Rust Projects](https://github.com/edupgarcia/rust-projects)
   - [Linux Shell scripting](https://linux.org/)
   - [Docker](https://www.docker.com/)
   - [Kubernetes](https://kubernetes.io/)
@@ -34,7 +36,6 @@ I am Eduardo and have over 23 years of experience working with software developm
     - [Grafana](https://grafana.com/)
     - [PowerBI](https://powerbi.microsoft.com/en-us/)
   - [GO](https://go.dev/)
-  - [Lua Porjects](https://github.com/edupgarcia/lua-projects)
   - [SvelteJS](https://svelte.dev/)
 - Non-commercial project: I've been working in an non-commercial project to support a NGO called [Albergue Diuturno Alvorecer do Labor](https://adal-navirai.negocio.site
 ). I'm creating a web app to help them to manage their hosting and reporting process.
