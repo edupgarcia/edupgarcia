@@ -10,11 +10,10 @@ I am Eduardo and have over 23 years of experience working with software developm
 - 👯 I’m looking to collaborate on a project that requires my Software Engineering experience or one I can join as Flutter/Dart or Python beginner.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Excel and VBA, those have been my most used software during my whole career.
-  - [Report and Information Ribbon](https://github.com/edupgarcia/RIRibbon)
-  - [VBA Sources](https://github.com/edupgarcia/VBASources)
+  - [VBA Projects](https://github.com/edupgarcia/vba-projects)
 - I also be able to answer questions about technologies below, once I use them in certain projects.
   - [Python](https://www.python.org/)
-  - [Flutter](https://flutter.dev/)
+  - [Flutter Projects](https://github.com/edupgarcia/flutter-projects)
   - [Linux Shell scripting](https://linux.org/)
   - [Docker](https://www.docker.com/)
   - [Kubernetes](https://kubernetes.io/)
@@ -34,8 +33,12 @@ I am Eduardo and have over 23 years of experience working with software developm
     - [Grafana](https://grafana.com/)
     - [PowerBI](https://powerbi.microsoft.com/en-us/)
   - [GO](https://go.dev/)
-  - [Lua](https://www.lua.org) / [LuaJIT](https://luajit.org/)
+  - [Lua Porjects](https://github.com/edupgarcia/lua-projects)
   - [SvelteJS](https://svelte.dev/)
+- Non-commercial project
+  I've been working in an non-commercial project to support a NGO called [Albergue Diuturno Alvorecer do Labor](https://adal-navirai.negocio.site
+). I'm creating a web app to help them to manage their hosting and reporting process.
+  The project is private to keep their privacy, although, you can know them through their web site.
 - 📫 How to reach me: 
   - :iphone: +55 119 5494 0771 / +55 199 9866 0771
   - :email: edupgarcia.ti@gmail.com or edupgarcia.ti@hotmail.com
