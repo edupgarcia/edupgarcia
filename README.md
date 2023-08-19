@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Eduardo and have over 23 years of experience working with software development, data analysis and teaching. Which includes ~4 years as a teacher, +1 year working in the USA and ~1 month working in Canada plus 2 months of studying at [Hansa Canada](https://hansacanada.com/home/)).
+I am Eduardo and have over 23 years of experience working with software development, data analysis and teaching. Which includes ~4 years as a teacher, +1 year working in the USA and ~1 month working in Canada plus 3 months of studying at [Hansa Canada](https://hansacanada.com/home/)).
 
 - 🔭 I’m currently working on [Valemobi](https://www.valemobi.com.br/) as SRE Specialist
 - :loudspeaker: I speak native Brazilian Portuguese, Intermediate English and Basic Italian and French.
@@ -13,7 +13,7 @@ I am Eduardo and have over 23 years of experience working with software developm
   - [Report and Information Ribbon](https://github.com/edupgarcia/RIRibbon)
   - [VBA Sources](https://github.com/edupgarcia/VBASources)
 - 📫 How to reach me: 
-  - :iphone: +55 119 5494 0771 / +55 199 9755 0771
+  - :iphone: +55 119 5494 0771 / +55 199 9866 0771
   - :email: edupgarcia.ti@gmail.com or edupgarcia.ti@hotmail.com
   - :link: [Linkedin Profile](https://linkedin.com/in/eduardopereiragarcia)
 - 😄 Pronouns: He/Him
