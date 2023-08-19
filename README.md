@@ -3,7 +3,7 @@
 I am Eduardo and have over 23 years of experience working with software development, data analysis and teaching. Which includes ~4 years as a teacher, +1 year working in the USA and ~1 month working in Canada plus 3 months of studying at [Hansa Canada](https://hansacanada.com/home/)).
 
 - 🔭 I’m currently working on [Valemobi](https://www.valemobi.com.br/) as SRE Specialist
-- :loudspeaker: I speak native Brazilian Portuguese, Intermediate English and Basic Italian and French.
+- :loudspeaker: I speak native Brazilian Portuguese, Intermediate English, Basic Italian and Basic French also.
 - :scroll: I have ITIL Foundation certification and have worked with Agile (Kanban), Process Mapping, Continuous Improvement (White Belt).
 - 🌱 I’m currently creating and Flutter + FastAPI Android App.
 - :computer: I have experience in Windows, Linux, MacOSX, VBA, Access/Excel, Python, Go, Docker, MongoDB, MySQL, PostgreSQL, SQLite, SQL Server,  Power BI, R Programming, SharePoint/InfoPath Designers.
@@ -12,6 +12,30 @@ I am Eduardo and have over 23 years of experience working with software developm
 - 💬 Ask me about Excel and VBA, those have been my most used software during my whole career.
   - [Report and Information Ribbon](https://github.com/edupgarcia/RIRibbon)
   - [VBA Sources](https://github.com/edupgarcia/VBASources)
+- I also be able to answer questions about technologies below, once I use them in certain projects.
+  - [Python](https://www.python.org/)
+  - [Flutter](https://flutter.dev/)
+  - [Linux Shell scripting](https://linux.org/)
+  - [Docker](https://www.docker.com/)
+  - [Kubernetes](https://kubernetes.io/)
+  - Databases
+    - SQL
+        - [SQLite](https://sqlite.org/index.html)
+        - [PostgreSQL](https://www.postgresql.org/)
+        - [MySQL](https://www.mysql.com/)
+        - [MS-SQL Server](https://www.microsoft.com/en-us/sql-server/)
+        - [Oracle](https://www.oracle.com/)
+    - No-SQL
+        - [Redis](https://redis.io/)
+        - [MongoDB](https://www.mongodb.com/)
+    - Time Series
+        - [InfluxDB](https://www.influxdata.com/)
+  - Visualization
+    - [Grafana](https://grafana.com/)
+    - [PowerBI](https://powerbi.microsoft.com/en-us/)
+  - [GO](https://go.dev/)
+  - [Lua](https://www.lua.org) / [LuaJIT](https://luajit.org/)
+  - [SvelteJS](https://svelte.dev/)
 - 📫 How to reach me: 
   - :iphone: +55 119 5494 0771 / +55 199 9866 0771
   - :email: edupgarcia.ti@gmail.com or edupgarcia.ti@hotmail.com
