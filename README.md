@@ -2,7 +2,7 @@
 
 I am Eduardo and have over 23 years of experience working with software development, data analysis and teaching. Which includes ~4 years as a teacher, +1 year working in the USA and ~1 month working in Canada plus 3 months of studying at [Hansa Canada](https://hansacanada.com/home/)).
 
-- 🔭 I’m currently working on [Valemobi](https://www.valemobi.com.br/) as SRE Specialist
+- 🔭 I’m currently working at [Valemobi](https://www.valemobi.com.br/) as SRE Specialist
 - Non-commercial project: I've been working in an non-commercial project to support a NGO called [Albergue Diuturno Alvorecer do Labor](https://adal-navirai.negocio.site
 - :loudspeaker: I speak native Brazilian Portuguese, Intermediate English, Basic Italian and Basic French also.
 - :scroll: I have ITIL Foundation certification and have worked with Agile (Kanban), Process Mapping, Continuous Improvement (White Belt).
