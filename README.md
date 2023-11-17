@@ -3,16 +3,16 @@
 I am Eduardo and have over 23 years of experience working with software development, data analysis and teaching. Which includes ~4 years as a teacher, +1 year working in the USA and ~1 month working in Canada plus 3 months of studying at [Hansa Canada](https://hansacanada.com/home/)).
 
 - 🔭 I’m currently working at [Valemobi](https://www.valemobi.com.br/) as SRE Specialist
-- Non-commercial project: I've been working in an non-commercial project to support a NGO called [Albergue Diuturno Alvorecer do Labor](https://adal-navirai.negocio.site
-- :loudspeaker: I speak native Brazilian Portuguese, Intermediate English, Basic Italian and Basic French also.
-- :scroll: I have ITIL Foundation certification and have worked with Agile (Kanban), Process Mapping, Continuous Improvement (White Belt).
+- Non-commercial project: I've been working on a non-commercial project to support an NGO called [Albergue Diuturno Alvorecer do Labor](https://adal-navirai.negocio.site
+- :loudspeaker: I speak native Brazilian Portuguese, Intermediate English, Basic Italian, and Basic French and just started to learn Spanish.
+- :scroll: I have ITIL Foundation certification and have worked with Agile (Kanban), Process Mapping, and Continuous Improvement (White Belt).
 - 🌱 I’m currently creating and Flutter + FastAPI Android App.
 - :computer: I have experience in Windows, Linux, MacOSX, VBA, Access/Excel, Python, Go, Docker, MongoDB, MySQL, PostgreSQL, SQLite, SQL Server,  Power BI, R Programming, SharePoint/InfoPath Designers.
-- 👯 I’m looking to collaborate on a project that requires my Software Engineering experience or one I can join as Flutter/Dart or Python beginner.
+- 👯 I’m looking to collaborate on a project that requires my Software Engineering experience or one I can join as a Flutter/Dart or Python beginner.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Excel and VBA, those have been my most used software during my whole career.
   - [VBA Projects](https://github.com/edupgarcia/vba-projects)
-- I also be able to answer questions about technologies below, once I use them in certain projects.
+- I will also be able to answer questions about the technologies below, once I use them in certain projects.
   - Python
   - [Flutter Projects](https://github.com/edupgarcia/flutter-projects)
   - [Lua Porjects](https://github.com/edupgarcia/lua-projects)
