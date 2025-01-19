@@ -2,10 +2,10 @@
 
 I am Eduardo and have over 20 years of experience in software development, data analysis, and teaching. Which includes ~4 years as a teacher, +1 year working in the USA, and ~1 month working in Canada plus 3 months of studying at [Hansa Canada](https://hansacanada.com/home/)).
 
-- 🎧 I'm currently working as SRE/Senior Application Support at EPAM Sytems.
+- 🎧 My current work is SRE/Senior Application Support at EPAM Sytems.
 - 🔭 I’ve worked at [Valemobi](https://www.valemobi.com.br/) as SRE Specialist
 - 🫴 Non-commercial project: I've been working on a non-commercial project to support an NGO called [Albergue Diuturno Alvorecer do Labor](https://adal-navirai.negocio.site
-- 📢 I speak native Brazilian Portuguese, advanced English, intermediate Spanish, basic Italian, and basic French.
+- 🙊 I speak native Brazilian Portuguese, advanced English, intermediate Spanish, basic Italian, and basic French.
 - 📋 I have ITIL Foundation certification and have worked with Agile (Kanban), Process Mapping, and Continuous Improvement (White Belt).
 - 🌱 I’m currently creating and Flutter + FastAPI Android App.
 - 💻 I have experience in Windows, Linux, MacOSX, VBA, Access/Excel, Python, Go, Docker, MongoDB, MySQL, PostgreSQL, SQLite, SQL Server,  Power BI, R Programming, SharePoint/InfoPath Designers.
