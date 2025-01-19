@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Eduardo and have over 20 years of experience in software development, data analysis, and teaching. Which includes ~4 years as a teacher, +1 year working in the USA, and ~1 month working in Canada plus 3 months of studying at [Hansa Canada](https://hansacanada.com/home/)).
+I am Eduardo and have over 20 years of experience 👨🏼‍💻 in software development, data analysis, and teaching. Which includes ~4 years as a teacher, +1 year working in the USA, and ~1 month working in Canada plus 3 months of studying at [Hansa Canada](https://hansacanada.com/home/)).
 
 - 🎧 My current work is SRE/Senior Application Support at EPAM Sytems.
 - 🔭 I’ve worked at [Valemobi](https://www.valemobi.com.br/) as SRE Specialist
@@ -38,5 +38,5 @@ I am Eduardo and have over 20 years of experience in software development, data 
   - 📞 +34 602 008 615 / +55 199 9866 0771
   - 📧 edupgarcia.ti@gmail.com or edupgarcia.ti@hotmail.com
   - 📄 [Linkedin Profile](https://linkedin.com/in/eduardopereiragarcia)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: once, returning to Brazil after visiting my sister in Japan, I fell asleep in the waiting area for the wrong flight and woke up 10 minutes after the plane had already taken off.
+- 👴🏼 Pronouns: He/Him
+- 😄 Fun fact: once, returning to Brazil after visiting my sister in Japan, I fell asleep waiting for the flight in the wrong area and woke up 10 minutes after the plane had already taken off, then I had to change my tickets and took the flight home in the following day. 😂
