@@ -1,4 +1,4 @@
-# Hi there! I'm Eduardo Garcia 👋
+# Hi there! I'm Eduardo Pereira Garcia 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Site+Reliability+Engineer;Software+Developer;Data+Analyst;20%2B+Years+Experience&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
