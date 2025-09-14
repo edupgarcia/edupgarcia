@@ -157,8 +157,7 @@ I'm always interested in new collaboration opportunities, challenging projects, 
 
 <div align="center">
   <a href="https://www.warp.dev/" target="_blank">
-    <img src="https://www.warp.dev/favicon.ico" alt="Warp Terminal" width="20" height="20" />
-    <strong>Reviewed with Warp Terminal</strong>
+    <img src="https://img.shields.io/badge/Reviewed_with-Warp_Terminal-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Reviewed with Warp Terminal" />
   </a>
   <br>
   <small><em>The terminal for the 21st century</em></small>
