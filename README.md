@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Site Reliability Engineer** and **Senior Application Support Analyst** at **EPAM Systems** with over **20 years of experience** in Software Development, Data Analysis, and SRE. Based in **Málaga, Spain** 🇪🇸, I'm passionate about ensuring applications run smoothly and perform optimally while providing proactive maintenance and monitoring.
+I'm a **Site Reliability Engineer** and **Senior Application Support Analyst** at **EPAM Systems** with over **20 years of experience** in Software Development, Data Analysis, and SRE. Currently living in **Málaga, Andalusia, Spain** 🇪🇸, I'm passionate about ensuring applications run smoothly and perform optimally while providing proactive maintenance and monitoring.
 
 ### 🌟 Professional Highlights
 - 🔧 **Current Role**: SRE Senior Application Support Analyst at EPAM Systems
@@ -109,17 +109,17 @@ I'm a **Site Reliability Engineer** and **Senior Application Support Analyst** a
 ### 📱 Flutter + FastAPI Android Application
 *Currently in development* - Modern mobile application combining Flutter frontend with FastAPI backend
 
-### 🏠 [Albergue Diuturno Management System](https://adal-navirai.negocio.site)
+### 🏠 <a href="https://adal-navirai.negocio.site" target="_blank">Albergue Diuturno Management System</a>
 Web application for managing hosting and reporting for a social institution *(Private Repository)*
 
 ### 💼 Project Repositories
-- 📊 [VBA Projects](https://github.com/edupgarcia/vba-projects) - Excel automation and business process tools
-- 📱 [Flutter Projects](https://github.com/edupgarcia/flutter-projects) - Cross-platform mobile applications
-- 🌙 [Lua Projects](https://github.com/edupgarcia/lua-projects) - Scripting and automation
-- 🌐 [Web Development](https://github.com/edupgarcia/rocketseat) - HTML, CSS, JavaScript projects
-- 📚 [Learning Journey](https://github.com/edupgarcia/stack-skills) - Git/GitHub skills development
-- 🚀 [Go & SvelteJS](https://github.com/edupgarcia/svelte-3) - Backend and frontend integration
-- ⚡ [Rust Projects](https://github.com/edupgarcia/rust-projects) - System programming and performance
+- 📊 <a href="https://github.com/edupgarcia/vba-projects" target="_blank">VBA Projects</a> - Excel automation and business process tools
+- 📱 <a href="https://github.com/edupgarcia/flutter-projects" target="_blank">Flutter Projects</a> - Cross-platform mobile applications
+- 🌙 <a href="https://github.com/edupgarcia/lua-projects" target="_blank">Lua Projects</a> - Scripting and automation
+- 🌐 <a href="https://github.com/edupgarcia/rocketseat" target="_blank">Web Development</a> - HTML, CSS, JavaScript projects
+- 📚 <a href="https://github.com/edupgarcia/stack-skills" target="_blank">Learning Journey</a> - Git/GitHub skills development
+- 🚀 <a href="https://github.com/edupgarcia/svelte-3" target="_blank">Go & SvelteJS</a> - Backend and frontend integration
+- ⚡ <a href="https://github.com/edupgarcia/rust-projects" target="_blank">Rust Projects</a> - System programming and performance
 
 ## 🤝 Let's Connect!
 
@@ -134,9 +134,12 @@ I'm always interested in new collaboration opportunities, challenging projects, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardopereiragarcia)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edupgarcia.ti@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34602008615)
+<a href="https://linkedin.com/in/eduardopereiragarcia" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:edupgarcia.ti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -153,7 +156,7 @@ I'm always interested in new collaboration opportunities, challenging projects, 
 ---
 
 <div align="center">
-  <a href="https://www.warp.dev/">
+  <a href="https://www.warp.dev/" target="_blank">
     <img src="https://www.warp.dev/favicon.ico" alt="Warp Terminal" width="20" height="20" />
     <strong>Reviewed with Warp Terminal</strong>
   </a>
