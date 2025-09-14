@@ -163,7 +163,7 @@ I'm always interested in new collaboration opportunities, challenging projects, 
 ---
 
 <div align="center">
-  <small><em style="color: rgb(255, 255, 255);">Reviewed with </em></small><a href="https://www.warp.dev/" target="_blank">
+  <em style="color: rgb(255, 255, 255);">Reviewed with</em> &nbsp;&nbsp;<a href="https://www.warp.dev/" target="_blank">
     <svg width="60" height="14" viewBox="0 0 79 18" xmlns="http://www.w3.org/2000/svg">
       <g>
         <path d="M 10.651 0 L 18.482 0 C 19.749 0 20.777 1.059 20.777 2.365 L 20.777 11.545 C 20.777 12.851 19.749 13.91 18.482 13.91 L 7.276 13.91 Z" fill="rgb(255, 255, 255)"></path>
@@ -332,7 +332,7 @@ Siempre estoy interesado en nuevas oportunidades de colaboración, proyectos des
 ---
 
 <div align="center">
-  <small><em style="color: rgb(255, 255, 255);">Revisado con </em></small><a href="https://www.warp.dev/" target="_blank">
+  <em style="color: rgb(255, 255, 255);">Revisado con</em> &nbsp;&nbsp;<a href="https://www.warp.dev/" target="_blank">
     <svg width="60" height="14" viewBox="0 0 79 18" xmlns="http://www.w3.org/2000/svg">
       <g>
         <path d="M 10.651 0 L 18.482 0 C 19.749 0 20.777 1.059 20.777 2.365 L 20.777 11.545 C 20.777 12.851 19.749 13.91 18.482 13.91 L 7.276 13.91 Z" fill="rgb(255, 255, 255)"></path>
@@ -501,7 +501,7 @@ Sempre estou interessado em novas oportunidades de colaboração, projetos desaf
 ---
 
 <div align="center">
-  <small><em style="color: rgb(255, 255, 255);">Revisado com </em></small><a href="https://www.warp.dev/" target="_blank">
+  <em style="color: rgb(255, 255, 255);">Revisado com</em> &nbsp;&nbsp;<a href="https://www.warp.dev/" target="_blank">
     <svg width="60" height="14" viewBox="0 0 79 18" xmlns="http://www.w3.org/2000/svg">
       <g>
         <path d="M 10.651 0 L 18.482 0 C 19.749 0 20.777 1.059 20.777 2.365 L 20.777 11.545 C 20.777 12.851 19.749 13.91 18.482 13.91 L 7.276 13.91 Z" fill="rgb(255, 255, 255)"></path>
