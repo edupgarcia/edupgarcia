@@ -166,8 +166,6 @@ I'm always interested in new collaboration opportunities, challenging projects, 
   <a href="https://www.warp.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Reviewed_with-Warp_Terminal-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Reviewed with Warp Terminal" />
   </a>
-  <br>
-  <small><em>The terminal for the 21st century</em></small>
 </div>
 
 </details>
@@ -332,8 +330,6 @@ Siempre estoy interesado en nuevas oportunidades de colaboración, proyectos des
   <a href="https://www.warp.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Revisado_con-Warp_Terminal-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Revisado con Warp Terminal" />
   </a>
-  <br>
-  <small><em>La terminal del siglo XXI</em></small>
 </div>
 
 </details>
@@ -498,8 +494,6 @@ Sempre estou interessado em novas oportunidades de colaboração, projetos desaf
   <a href="https://www.warp.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Revisado_com-Warp_Terminal-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Revisado com Warp Terminal" />
   </a>
-  <br>
-  <small><em>O terminal do século XXI</em></small>
 </div>
 
 </details>
