@@ -163,7 +163,9 @@ I'm always interested in new collaboration opportunities, challenging projects, 
 ---
 
 <div align="center">
-  <small><em>Reviewed with <a href="https://www.warp.dev/" target="_blank">Warp Terminal</a></em></small>
+  <a href="https://www.warp.dev/" target="_blank">
+    <img src="https://www.warp.dev/favicon.ico" alt="Warp" width="24" height="24" style="border-radius: 4px;" />
+  </a>
 </div>
 
 </details>
@@ -325,7 +327,9 @@ Siempre estoy interesado en nuevas oportunidades de colaboración, proyectos des
 ---
 
 <div align="center">
-  <small><em>Revisado con <a href="https://www.warp.dev/" target="_blank">Warp Terminal</a></em></small>
+  <a href="https://www.warp.dev/" target="_blank">
+    <img src="https://www.warp.dev/favicon.ico" alt="Warp" width="24" height="24" style="border-radius: 4px;" />
+  </a>
 </div>
 
 </details>
@@ -487,7 +491,9 @@ Sempre estou interessado em novas oportunidades de colaboração, projetos desaf
 ---
 
 <div align="center">
-  <small><em>Revisado com <a href="https://www.warp.dev/" target="_blank">Warp Terminal</a></em></small>
+  <a href="https://www.warp.dev/" target="_blank">
+    <img src="https://www.warp.dev/favicon.ico" alt="Warp" width="24" height="24" style="border-radius: 4px;" />
+  </a>
 </div>
 
 </details>
