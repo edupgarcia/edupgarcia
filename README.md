@@ -1,8 +1,15 @@
-# Hi there! I'm Eduardo Pereira Garcia 👋
+# Hi there! I'm Eduardo Garcia 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Site+Reliability+Engineer;Software+Developer;Data+Analyst;20%2B+Years+Experience&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
+
+---
+
+## 🌍 Choose Your Language / Elige tu Idioma / Escolha seu Idioma
+
+<details open>
+<summary>🇺🇸 <strong>English</strong></summary>
 
 ## 🚀 About Me
 
@@ -162,3 +169,337 @@ I'm always interested in new collaboration opportunities, challenging projects, 
   <br>
   <small><em>The terminal for the 21st century</em></small>
 </div>
+
+</details>
+
+---
+
+<details>
+<summary>🇪🇸 <strong>Español</strong></summary>
+
+## 🚀 Sobre Mí
+
+Soy **Ingeniero de Confiabilidad de Sitios** y **Analista Senior de Soporte de Aplicaciones** en **EPAM Systems** con más de **20 años de experiencia** en Desarrollo de Software, Análisis de Datos y SRE. Actualmente vivo en **Málaga, Andalucía, España** 🇪🇸, y me apasiona garantizar que las aplicaciones funcionen sin problemas y rindan de manera óptima mientras proporciono mantenimiento y monitoreo proactivo.
+
+### 🌟 Aspectos Profesionales Destacados
+- 🔧 **Cargo Actual**: Analista Senior SRE de Soporte de Aplicaciones en EPAM Systems
+- 🏢 **Experiencia Previa**: Ingeniero de Confiabilidad de Sitios en Valemobi, Analista Senior de Datos en AB InBev
+- 🎓 **Educación**: Tecnología de la Información + Posgrado en Gestión de Proyectos TI
+- 👨‍🏫 **Experiencia Docente**: Instructor de MBA y cursos técnicos vocacionales (4+ años)
+- 🌍 **Internacional**: Trabajé en EE.UU. (1+ año), Canadá (1 mes), estudié en Hansa Canada
+
+### 🗣️ Idiomas
+- 🇧🇷 **Portugués**: Nativo
+- 🇺🇸 **Inglés**: Competencia Profesional Completa B1+
+- 🇪🇸 **Español**: Competencia Profesional B1
+
+## 💼 Experiencia Profesional
+
+### 🏢 EPAM Systems - Analista Senior SRE de Soporte de Aplicaciones
+**Abr 2024 - Presente**
+- Garantizar que las aplicaciones funcionen sin problemas y rindan de manera óptima
+- Mantenimiento proactivo y monitoreo
+- Asesoramiento a equipos de desarrollo sobre mejores prácticas de implementación
+- Respuesta rápida a incidentes y resolución
+
+### 🏢 Valemobi - Especialista en Ingeniería de Confiabilidad de Sitios
+**Jul 2021 - Dic 2023**
+- Soporte de actividades SRE, Desarrollo y DevOps
+- Scripting en Python para datos de TimeSeries (InfluxDB, Postgres)
+- CI/CD con GitLab y TFS
+- Orquestación de contenedores (Kubernetes, Docker, Rancher, OpenShift)
+- Desarrollo con Go (Golang) Fiber y Flutter
+- Soporte de aplicaciones Angular y Kotlin
+
+### 🏢 AB InBev - Analista Senior de Datos e Ingeniero de Software
+**Ene 2010 - Oct 2018**
+- Construcción de base de datos con 2,300+ Porcentajes de Volumen de Bebidas Alcohólicas
+- Soporte de 500+ Millones de Hectolitros/Año de ventas de cerveza
+- Modelo de Pago Variable para 50+ mayoristas
+- Reducción del tiempo de adquisición de 90 a 15 días
+- Optimización del procesamiento de nómina de 4 a 1 día
+
+## 🛠️ Habilidades Técnicas
+
+### 💻 Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### 🚀 Frameworks y Herramientas
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 📊 Datos y Análisis
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ☁️ Nube y DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+
+### 🏆 Certificaciones
+- **ITIL® Foundation 4**
+- **Entrenamiento Anual de Código de Ética SEC**
+- **Certificaciones de Microsoft Copilot**
+- **Metodologías Ágiles y en Cascada**
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edupgarcia&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Eduardo" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edupgarcia&theme=radical" alt="Racha de GitHub de Eduardo" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edupgarcia&layout=compact&theme=radical" alt="Lenguajes Más Usados" />
+</div>
+
+## 🚀 Proyectos Destacados
+
+### 📱 Aplicación Android Flutter + FastAPI
+*Actualmente en desarrollo* - Aplicación móvil moderna que combina frontend Flutter con backend FastAPI
+
+### 🏠 <a href="https://maps.app.goo.gl/syEnxkfRUXjoDNK38" target="_blank">Sistema de Gestión de Albergue Diurno</a>
+Aplicación web para gestionar hospedaje e informes para una institución social *(Repositorio Privado)*
+
+### 💼 Repositorios de Proyectos
+- 📊 <a href="https://github.com/edupgarcia/vba-projects" target="_blank">Proyectos VBA</a> - Herramientas de automatización de Excel y procesos de negocio
+- 📱 <a href="https://github.com/edupgarcia/flutter-projects" target="_blank">Proyectos Flutter</a> - Aplicaciones móviles multiplataforma
+- 🌙 <a href="https://github.com/edupgarcia/lua-projects" target="_blank">Proyectos Lua</a> - Scripting y automatización
+- 🌐 <a href="https://github.com/edupgarcia/rocketseat" target="_blank">Desarrollo Web</a> - Proyectos HTML, CSS, JavaScript
+- 📚 <a href="https://github.com/edupgarcia/stack-skills" target="_blank">Jornada de Aprendizaje</a> - Desarrollo de habilidades Git/GitHub
+- 🚀 <a href="https://github.com/edupgarcia/svelte-3" target="_blank">Go & SvelteJS</a> - Integración backend y frontend
+- ⚡ <a href="https://github.com/edupgarcia/rust-projects" target="_blank">Proyectos Rust</a> - Programación de sistemas y rendimiento
+
+## 🤝 ¡Conectemos!
+
+Siempre estoy interesado en nuevas oportunidades de colaboración, proyectos desafiantes y soluciones innovadoras. Ya sea que busques:
+- 🔧 Experiencia en Ingeniería de Confiabilidad de Sitios
+- 💻 Desarrollo de Software (Python, Go, Flutter)
+- 📊 Análisis y Visualización de Datos
+- ☁️ Soluciones DevOps y Nube
+- 👨‍🏫 Mentoría Técnica
+
+**¡Hablemos!**
+
+<div align="center">
+
+<a href="https://linkedin.com/in/eduardopereiragarcia" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:edupgarcia.ti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=edupgarcia&color=blueviolet&style=flat-square&label=Vistas+del+Perfil" alt="Vistas del perfil" />
+</div>
+
+<div align="center">
+  <i>"Garantizando que las aplicaciones funcionen sin problemas mientras aprendo y crezco continuamente en el mundo tecnológico en constante evolución."</i>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.warp.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Revisado_con-Warp_Terminal-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Revisado con Warp Terminal" />
+  </a>
+  <br>
+  <small><em>La terminal del siglo XXI</em></small>
+</div>
+
+</details>
+
+---
+
+<details>
+<summary>🇧🇷 <strong>Português Brasileiro</strong></summary>
+
+## 🚀 Sobre Mim
+
+Sou **Engenheiro de Confiabilidade de Sites** e **Analista Sênior de Suporte de Aplicações** na **EPAM Systems** com mais de **20 anos de experiência** em Desenvolvimento de Software, Análise de Dados e SRE. Atualmente morando em **Málaga, Andaluzia, Espanha** 🇪🇸, sou apaixonado por garantir que aplicações funcionem perfeitamente e tenham desempenho ótimo, fornecendo manutenção proativa e monitoramento.
+
+### 🌟 Destaques Profissionais
+- 🔧 **Cargo Atual**: Analista Sênior SRE de Suporte de Aplicações na EPAM Systems
+- 🏢 **Experiência Anterior**: Engenheiro de Confiabilidade de Sites na Valemobi, Analista Sênior de Dados na AB InBev
+- 🎓 **Educação**: Tecnologia da Informação + Pós-graduação em Gestão de Projetos de TI
+- 👨‍🏫 **Experiência no Ensino**: Instrutor de MBA e cursos técnicos profissionalizantes (4+ anos)
+- 🌍 **Internacional**: Trabalhei nos EUA (1+ ano), Canadá (1 mês), estudei na Hansa Canada
+
+### 🗣️ Idiomas
+- 🇧🇷 **Português**: Nativo
+- 🇺🇸 **Inglês**: Proficiência Profissional Completa B1+
+- 🇪🇸 **Espanhol**: Proficiência Profissional B1
+
+## 💼 Experiência Profissional
+
+### 🏢 EPAM Systems - Analista Sênior SRE de Suporte de Aplicações
+**Abr 2024 - Presente**
+- Garantir que aplicações funcionem perfeitamente e tenham desempenho ótimo
+- Manutenção proativa e monitoramento
+- Consultoria com equipes de desenvolvimento sobre melhores práticas de implantação
+- Resposta rápida a incidentes e resolução
+
+### 🏢 Valemobi - Especialista em Engenharia de Confiabilidade de Sites
+**Jul 2021 - Dez 2023**
+- Suporte a atividades SRE, Desenvolvimento e DevOps
+- Scripting em Python para dados TimeSeries (InfluxDB, Postgres)
+- CI/CD com GitLab e TFS
+- Orquestração de contêineres (Kubernetes, Docker, Rancher, OpenShift)
+- Desenvolvimento com Go (Golang) Fiber e Flutter
+- Suporte a aplicações Angular e Kotlin
+
+### 🏢 AB InBev - Analista Sênior de Dados e Engenheiro de Software
+**Jan 2010 - Out 2018**
+- Construção de banco de dados com 2.300+ Percentuais de Volume de Bebidas Alcoólicas
+- Suporte a 500+ Milhões de Hectolitros/Ano de vendas de cerveja
+- Modelo de Pagamento Variável para 50+ distribuidores
+- Redução do tempo de aquisição de 90 para 15 dias
+- Otimização do processamento de folha de pagamento de 4 para 1 dia
+
+## 🛠️ Habilidades Técnicas
+
+### 💻 Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### 🚀 Frameworks e Ferramentas
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🗄️ Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 📊 Dados e Análises
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ☁️ Nuvem e DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+
+### 🏆 Certificações
+- **ITIL® Foundation 4**
+- **Treinamento Anual de Código de Ética SEC**
+- **Certificações Microsoft Copilot**
+- **Metodologias Ágeis e Cascata**
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edupgarcia&show_icons=true&theme=radical" alt="Estatísticas do GitHub do Eduardo" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edupgarcia&theme=radical" alt="Sequência do GitHub do Eduardo" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edupgarcia&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+</div>
+
+## 🚀 Projetos em Destaque
+
+### 📱 Aplicação Android Flutter + FastAPI
+*Atualmente em desenvolvimento* - Aplicação móvel moderna combinando frontend Flutter com backend FastAPI
+
+### 🏠 <a href="https://maps.app.goo.gl/syEnxkfRUXjoDNK38" target="_blank">Sistema de Gestão do Albergue Diurno</a>
+Aplicação web para gerenciar hospedagem e relatórios para uma instituição social *(Repositório Privado)*
+
+### 💼 Repositórios de Projetos
+- 📊 <a href="https://github.com/edupgarcia/vba-projects" target="_blank">Projetos VBA</a> - Ferramentas de automação do Excel e processos de negócios
+- 📱 <a href="https://github.com/edupgarcia/flutter-projects" target="_blank">Projetos Flutter</a> - Aplicações móveis multiplataforma
+- 🌙 <a href="https://github.com/edupgarcia/lua-projects" target="_blank">Projetos Lua</a> - Scripting e automação
+- 🌐 <a href="https://github.com/edupgarcia/rocketseat" target="_blank">Desenvolvimento Web</a> - Projetos HTML, CSS, JavaScript
+- 📚 <a href="https://github.com/edupgarcia/stack-skills" target="_blank">Jornada de Aprendizado</a> - Desenvolvimento de habilidades Git/GitHub
+- 🚀 <a href="https://github.com/edupgarcia/svelte-3" target="_blank">Go & SvelteJS</a> - Integração backend e frontend
+- ⚡ <a href="https://github.com/edupgarcia/rust-projects" target="_blank">Projetos Rust</a> - Programação de sistemas e performance
+
+## 🤝 Vamos nos Conectar!
+
+Sempre estou interessado em novas oportunidades de colaboração, projetos desafiadores e soluções inovadoras. Seja você procurando por:
+- 🔧 Expertise em Engenharia de Confiabilidade de Sites
+- 💻 Desenvolvimento de Software (Python, Go, Flutter)
+- 📊 Análise e Visualização de Dados
+- ☁️ Soluções DevOps e Nuvem
+- 👨‍🏫 Mentoria Técnica
+
+**Vamos conversar!**
+
+<div align="center">
+
+<a href="https://linkedin.com/in/eduardopereiragarcia" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:edupgarcia.ti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=edupgarcia&color=blueviolet&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Visualizações do perfil" />
+</div>
+
+<div align="center">
+  <i>"Garantindo que aplicações funcionem perfeitamente enquanto aprendo e cresço continuamente no mundo da tecnologia em constante evolução."</i>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.warp.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Revisado_com-Warp_Terminal-01A4FF?style=for-the-badge&logo=warp&logoColor=white" alt="Revisado com Warp Terminal" />
+  </a>
+  <br>
+  <small><em>O terminal do século XXI</em></small>
+</div>
+
+</details>
