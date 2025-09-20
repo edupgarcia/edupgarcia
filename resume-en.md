@@ -1,5 +1,7 @@
 # Eduardo Pereira Garcia - Resume
 
+<edupgarcia@proton.me> • +34 602 00 86 15 • Calle Pilar Lorengar, 16, 5C, Málaga, Andalusia, Spain • <https://lnkedin.com/in/eduardopereiragarcia> • <https://github.com/edupgarcia>
+
 ## Objective
 
 SRE and Application Support
