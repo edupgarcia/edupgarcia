@@ -1,4 +1,4 @@
-# Eduardo Garcia - Resume
+# Eduardo Pereira Garcia - Resume
 
 ## Objective
 
@@ -37,13 +37,13 @@ SRE and Application Support
 
 ### Programming Languages
 
-- Go/Golang, Dart/Flutter, Python
-- VBA, C#, JavaScript, NodeJS
+- Go/Golang, Dart/Flutter, **Python**
+- **VBA**, C#, JavaScript, NodeJS
 
 ### Databases
 
-- Redis, MongoDB, MySQL, PostgreSQL
-- SQLite, SQL Server
+- Redis, MongoDB, **MySQL**, PostgreSQL
+- **SQLite**, SQL Server
 
 ### Business Intelligence & Tools
 
@@ -60,7 +60,7 @@ Full-time • 1 yr 10 mos
 
 Apr 2024 - Present • Málaga, Andalusia, Spain
 
-- Create optimizations through scripts and process improvement to ensure applications run smoothly and perform optimally
+- ***Create optimizations through scripts and process improvement to ensure applications run smoothly and perform optimally***
 - Provide proactive maintenance and monitoring
 - Consult with development teams on proper application deployment
 - React quickly to software malfunctions and unresponsive systems
@@ -71,7 +71,7 @@ Apr 2024 - Present • Málaga, Andalusia, Spain
 Dec 2023 - Mar 2024 • 4 mos • Jaguariúna, São Paulo, Brazil
 
 - Ensured applications run smoothly and perform optimally
-- Provided proactive maintenance and monitoring
+- ***Provided proactive maintenance and monitoring***
 - Consulted with development teams on application deployment
 - **Key Technologies**: Solarwinds, Docker, Kibana, Python, GCP, Grafana
 
@@ -83,7 +83,7 @@ Full-time • 2 yrs 6 mos
 
 Sep 2022 - Dec 2023 • São Paulo, São Paulo, Brazil
 
-- SRE, Development and DevOps activities support with focus on Customer Experience
+- ***SRE, Development and DevOps activities support with focus on Customer Experience***
 - Python Scripting for TimeSeries data storage in InfluxDB and Postgres
 - GitLab and TFS CI/CD pipeline management
 - Business Process implementation and improvement
@@ -96,7 +96,7 @@ Sep 2022 - Dec 2023 • São Paulo, São Paulo, Brazil
 Jul 2021 - Sep 2022 • São Paulo, São Paulo, Brazil (Hybrid)
 
 - SRE and DevOps activities support with Customer Experience focus
-- Python Monitoring Scripting and TimeSeries data capture for InfluxDB and Postgres
+- ***Python Monitoring Scripting and TimeSeries data capture for InfluxDB and Postgres***
 - Business Process implementation and improvement
 - Python FastAPI and Flutter web/mobile creation
 - Angular (JavaScript) Front-End and Kotlin (Java) Back-End Application Support
@@ -108,7 +108,7 @@ Jul 2021 - Sep 2022 • São Paulo, São Paulo, Brazil (Hybrid)
 
 Part-time • Mar 2019 - Feb 2022 • 3 yrs • Greater São Paulo Area
 
-- Data ETL, process automation, Web and Mobile Apps creation
+- ***Data ETL, process automation, Web and Mobile Apps creation***
 - Reporting Automation for Microsoft Excel and Project
 - Data Analysis, Linux Cloud Administration, and MySQL DBA
 - **Key Technologies**: Google Scripting, VBA, Python, JavaScript, Redis, Digital Ocean
@@ -118,7 +118,7 @@ Part-time • Mar 2019 - Feb 2022 • 3 yrs • Greater São Paulo Area
 Full-time • Mar 2019 - Jun 2021 • 2 yrs 4 mos • São Paulo, Brazil
 
 - Reporting Automation for Microsoft Excel and Project
-- Data Analysis, Linux Cloud Administration, and MySQL DBA
+- ***Data Analysis, Linux Cloud Administration, and MySQL DBA***
 - **Key Technologies**: NodeJS, Shell scripting, Python, Lua
 
 ### AB InBev
@@ -129,7 +129,7 @@ Full-time • 10 yrs 11 mos • Campinas, São Paulo, Brazil
 
 Oct 2015 - Oct 2018 • 3 yrs 1 mo
 
-- Built database with ~2,300 Alcoholic Beverage Volume Percentages supporting over 500 Million Hectoliters/Year of beer sales
+- ***Built database with ~2,300 Alcoholic Beverage Volume Percentages supporting over 500 Million Hectoliters/Year of beer sales***
 - **Key Technologies**: Excel, VBA, Power Query, Power BI, R Programming
 
 #### Senior Software Engineer
@@ -137,7 +137,7 @@ Oct 2015 - Oct 2018 • 3 yrs 1 mo
 Dec 2013 - Sep 2015 • 1 yr 10 mos
 
 - Variable Payment Model implementation for 50+ wholesalers
-- Reduced acquisition time from 90 to 15 days and payroll processing from 4 to 1 day
+- ***Reduced acquisition time from 90 to 15 days and payroll processing from 4 to 1 day***
 - **Key Technologies**: C#, ASP.NET MVC, SQL Server, Visual Basic
 
 #### Software Engineer 2
@@ -145,14 +145,14 @@ Dec 2013 - Sep 2015 • 1 yr 10 mos
 Jan 2010 - Nov 2013 • 3 yrs 11 mos
 
 - Built Purchase Orders workflows using Microsoft SharePoint
-- Managed ~1,000 PRs-POs requests with over US$ 1,000,000.00 monthly budget
+- ***Managed ~1,000 PRs-POs requests with over US$ 1,000,000.00 monthly budget***
 - **Key Technologies**: SharePoint, VBA, Visual Basic, Excel
 
 #### Junior Software Engineer 2
 
 Dec 2007 - Dec 2009 • 2 yrs 1 mo
 
-- Process automation for Accounts Payable, Accounts Receivable, Logistics Analytics and Payroll
+- ***Process automation for Accounts Payable, Accounts Receivable, Logistics Analytics and Payroll***
 - **Key Technologies**: Oracle Reports, SAP Products, VBA, Visual Basic
 
 ### Teaching Positions
@@ -168,7 +168,7 @@ Policamp • Part-time • Oct 2012 • Greater Campinas
 IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 - Dec 2008 • Piracicaba, SP
 
 - Computer programming classes for 20-30 students
-- Teaching Programming Logic in Pascal/Object Pascal Languages
+- ***Teaching Programming Logic in Pascal/Object Pascal Languages***
 - Software Development with Delphi & Firebird
 
 ### Early Career
@@ -177,7 +177,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 
 ##### Proxima Software and Services • Full-time • Jul 2003 - Jan 2006 • Piracicaba, SP
 
-- Oracle 8i database integration between PRX Delphi application and SAPIENS
+- ***Oracle 8i database integration between PRX Delphi application and SAPIENS***
 - Development of Entomology module for PRX software
 - Development of Harvesting information collection software using Basic
 - Focus on sugarcane and ethanol industries
@@ -187,7 +187,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 
 ##### Sjmo Assessoria • Full-time • Jan 2003 - Jul 2003 • Piracicaba, SP
 
-- Development of Phocus SysRH 1st version for Salary Research
+- ***Development of Phocus SysRH 1st version for Salary Research***
 - Application setup in customer infrastructure
 - **Key Technologies**: Visual Basic 6, Microsoft Access
 
@@ -195,14 +195,14 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 
 ##### The Goodyear Tire & Rubber Company • Contract • Jul 2002 - Dec 2002 • Campinas Area
 
-- Maintenance parts stock translation from Portuguese to English and automation
+- ***Maintenance parts stock translation from Portuguese to English and automation***
 - **Key Technologies**: AS/400 scripting
 
 #### Information Technology Intern
 
 ##### Banespa S.A. • Internship • Dec 1998 - Dec 2000 • Araçatuba, SP
 
-- Internet Banking software setup
+- ***Internet Banking software setup***
 - Working Capital paychecks handling
 - Insurance contract making
 - **Key Technologies**: Banespa Home bank, Excel, VBA
@@ -214,7 +214,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 **Post Graduation in IT Project Management**  
 **Feb 2008 - Apr 2009 • Grade: 10/10**
 
-- Introduction to ITIL and PMI PMBOK
+- ***Introduction to ITIL and PMI PMBOK***
 - Final Paper on Version Control Management (Maximum score achieved)
 - Focus on Service-Level Agreements (SLA) and Software Development
 
@@ -224,7 +224,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 **Jan 1998 - Dec 2000 • Grade: 9/10**
 
 - Software development, IT management and Team leadership
-- Created/presented software to manage water treatment products company (zero bugs)
+- **Created/presented software to manage water treatment products company (zero bugs)**
 - Focus on Software Development and Windows systems
 
 ## Certifications & Licenses
@@ -304,7 +304,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 #### Aug 2017 - Oct 2018 • AB InBev
 
 - Built database of collected ABV (Alcohol By Volume) percentages
-- Cross-referenced with Beer Sales Volume using Excel Power Query
+- ***Cross-referenced with Beer Sales Volume using Excel Power Query***
 - Supported over 500 Million Hectoliters/Year of beer sales
 - **Technologies**: Excel Power Query, VBA, Power BI, R Programming
 
@@ -312,7 +312,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 
 #### Apr 2017 - Oct 2017 • AB InBev
 
-- Area restructuring project using Kaizen methodology
+- ***Area restructuring project using Kaizen methodology***
 - Improved Time and Quality of deliverables
 - Implemented Process Mapping, Workload Balance and Automation
 
@@ -322,15 +322,15 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 
 - Variable Payment standardization for 50+ wholesalers
 - Different rules for commissions over production and working hours
-- Reduced acquisition time from 90 to 15 days
-- Reduced payroll processing from 4 to 1 day
+- ***Reduced acquisition time from 90 to 15 days***
+- ***Reduced payroll processing from 4 to 1 day***
 - **Technologies**: C#, ASP.NET MVC, SQL Server
 
 ### SLA Tracking System
 
 #### Jan 2009 - Dec 2009 • AB InBev
 
-- Comprehensive tool supporting entire SLA process
+- ***Comprehensive tool supporting entire SLA process***
 - New SLA creation, approvals, owners, customers, deliveries and customer feedback
 - **Technologies**: SharePoint, VBA, SQL Server
 
@@ -338,7 +338,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 
 #### Jan 2008 - Sep 2010 • AB InBev
 
-- Managed all invoice payments with any kind of issue
+- ***Managed all invoice payments with any kind of issue***
 - Tracking information between Requestors and BSC requests
 - Budget management over US$ 1,000,000.00 monthly
 
@@ -349,34 +349,34 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 #### Global IBS Delivery & Operations • Jun 2015
 
 - Category: Service Operations
-- Recognition: Rapid SQL Server issue identification and code restoration for virtual machine
+- ***Recognition: Rapid SQL Server issue identification and code restoration for virtual machine***
 
 ### You Rock Award 2015
 
 #### Global IBS Delivery & Operations • Mar 2014
 
 - Category: Results
-- Recognition: Extra effort on SSIS package optimization
+- ***Recognition: Extra effort on SSIS package optimization***
 
 ### Ninguém faz Igual (You Rock)
 
 #### Centro de Serviços Compartilhados • Jul 2012
 
 - MSGtoRTF Conversion Tool development
-- Tool to convert files from Outlook to Rich Text Format under IT security request
+- ***Tool to convert files from Outlook to Rich Text Format under IT security request***
 
 ### Simplifica (Simplify)
 
 #### Centro de Serviços Compartilhados • Mar 2009
 
 - Innovative idea: Hold Application
-- Tool to help invoice payment process
+- ***Tool to help invoice payment process***
 
 ### Military Service Excellence
 
 #### Exército Brasileiro • Dec 1999
 
-- Certified for excellence in behavior, communications and technology
+- ***Certified for excellence in behavior, communications and technology***
 - Regular shooting level achievement
 
 ## Languages Spoken
@@ -387,16 +387,16 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 
 ## Volunteering
 
-### Software Engineer Web
+### Software Engineer Non-Profit
 
 #### GEPE - Albergue Alvorecer do Labor • Jan 2019 - Present
 
-- Creating applications to support Hostel operations
+- ***Creating applications to support Hostel operations***
 - Social Services sector
 
 ### Participant
 
 #### Ambev • Dec 2007 - Dec 2010
 
-- Visited "Lar Feliz" for social and emotional support
+- Visited "Lar Feliz" for ***social and emotional support***
 - Children services
