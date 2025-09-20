@@ -6,10 +6,10 @@ SRE and Application Support
 
 ## About Me
 
-- Over 20 years of experience in Software Development, Data Analysis, and SRE
-- Transitioned across different business areas and industries
+- ***Over 20 years of experience*** in Software Development, Data Analysis, and SRE
+- Transitioned across ***different business areas and industries***
 - Teaching experience: ~4 years as educator
-- International experience: Payroll systems (US) and ERP migration (Canada)
+- **International experience:** Payroll systems (US) and ERP migration (Canada)
 
 ## Core Competencies
 
@@ -21,19 +21,19 @@ SRE and Application Support
 
 ### Methodologies & Frameworks
 
-- ITIL Foundation, Kanban, Agile
-- Process Mapping, Continuous Improvement
+- ***ITIL Foundation***, Kanban, Agile
+- Process Mapping, ***Continuous Improvement***
 - White Belt (Lean Six Sigma)
 
 ### Monitoring & Infrastructure
 
-- Dynatrace, Grafana, InfluxDB, Kibana
-- Docker, Kubernetes, Rancher, OpenShift
+- Dynatrace, Grafana, ***InfluxDB***, Kibana
+- ***Docker***, ***Kubernetes***, Rancher, OpenShift
 - Solarwinds DPA
 
 ### Operating Systems
 
-- Windows, Linux, MacOSX
+- Windows, ***Linux***, MacOSX
 
 ### Programming Languages
 
