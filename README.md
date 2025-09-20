@@ -24,34 +24,51 @@ I'm a **Site Reliability Engineer** and **Senior Application Support Analyst** a
 
 ### 🗣️ Languages
 - 🇧🇷 **Portuguese**: Native
-- 🇺🇸 **English**: Full Professional Proficiency B1+
-- 🇪🇸 **Spanish**: Preofessional Proficiency B1
+- 🇺🇸 **English**: Advanced (B1+)
+- 🇪🇸 **Spanish**: Intermediate (B1)
 
 ## 💼 Professional Experience
 
-### 🏢 EPAM Systems - SRE Senior Application Support Analyst
-**Apr 2024 - Present**
-- Ensuring applications run smoothly and perform optimally
-- Proactive maintenance and monitoring
-- Consulting with development teams on deployment best practices
-- Quick incident response and resolution
+### 🏂 EPAM Systems - SRE Senior Application Support Analyst (Hybrid)
+**Apr 2024 - Present • Málaga, Andalusia, Spain**
+- Create optimizations through scripts and process improvement to ensure applications run smoothly and perform optimally
+- Provide proactive maintenance and monitoring
+- Consult with development teams on proper application deployment
+- React quickly to software malfunctions and unresponsive systems
+- **Key Technologies**: Solarwinds DPA, Docker, Kibana, Python, GCP, Grafana, PowerShell, Microsoft Copilot
 
-### 🏢 Valemobi - Site Reliability Engineer Specialist
-**Jul 2021 - Dec 2023**
-- SRE, Development and DevOps activities support
-- Python scripting for TimeSeries data (InfluxDB, Postgres)
-- CI/CD with GitLab and TFS
-- Container orchestration (Kubernetes, Docker, Rancher, OpenShift)
-- Go (Golang) Fiber and Flutter development
-- Angular and Kotlin application support
+**Previous Position**: SRE Senior Application Support Analyst (Remote)  
+**Dec 2023 - Mar 2024 • Jaguariúna, São Paulo, Brazil**
 
-### 🏢 AB InBev - Senior Data Analyst & Software Engineer
-**Jan 2010 - Oct 2018**
-- Built database with 2,300+ Alcoholic Beverage Volume Percentages
-- Supported 500+ Million Hectoliters/Year of beer sales
-- Variable Payment Model for 50+ wholesalers
-- Reduced acquisition time from 90 to 15 days
-- Optimized payroll processing from 4 to 1 day
+### 🏂 Valemobi - Site Reliability Engineer Specialist  
+**Sep 2022 - Dec 2023 • São Paulo, Brazil**
+- SRE, Development and DevOps activities support with focus on Customer Experience
+- Python Scripting for TimeSeries data storage in InfluxDB and Postgres
+- GitLab and TFS CI/CD pipeline management
+- Business Process implementation and improvement
+- Go (Golang) Fiber and Flutter web/mobile application creation
+- Angular (JavaScript) Front-End and Kotlin (Java) Back-End Application Support
+- **Key Technologies**: Rancher, OpenShift, Kubernetes, Docker, InfluxDB, PostgreSQL, ActiveMQ
+
+**Previous Position**: Senior Software Site Reliability Engineer  
+**Jul 2021 - Sep 2022 • São Paulo, Brazil (Hybrid)**
+- **Key Technologies**: Python FastAPI, Flutter, Redis, Rancher, Kubernetes, Docker
+
+### 🏂 AB InBev - Multiple Positions (10 yrs 11 mos)
+**Dec 2007 - Oct 2018 • Campinas, São Paulo, Brazil**
+
+**Senior Data Analyst** (Oct 2015 - Oct 2018)
+- Built database with ~2,300 Alcoholic Beverage Volume Percentages supporting over 500 Million Hectoliters/Year of beer sales
+- **Key Technologies**: Excel, VBA, Power Query, Power BI, R Programming
+
+**Senior Software Engineer** (Dec 2013 - Sep 2015)
+- Variable Payment Model implementation for 50+ wholesalers
+- Reduced acquisition time from 90 to 15 days and payroll processing from 4 to 1 day
+- **Key Technologies**: C#, ASP.NET MVC, SQL Server, Visual Basic
+
+**Software Engineer** (Jan 2010 - Nov 2013)
+- Built Purchase Orders workflows using Microsoft SharePoint
+- Managed ~1,000 PRs-POs requests with over US$ 1,000,000.00 monthly budget
 
 ## 🛠️ Technical Skills
 
@@ -91,11 +108,19 @@ I'm a **Site Reliability Engineer** and **Senior Application Support Analyst** a
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img src="https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white" alt="OpenShift"/></a>
 <a href="https://rancher.com/" target="_blank"><img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/></a>
 
-### 🏆 Certifications
-- **ITIL® Foundation 4**
-- **Annual SEC Code of Ethics Training**
-- **Microsoft Copilot Certifications**
-- **Agile & Waterfall Methodologies**
+### 🏆 Recent Certifications (2024-2025)
+- **Salesforce Certified AI Associate** (Jan 2025)
+- **Elasticsearch Essential Training** (Aug 2025)
+- **Google Cloud Platform Certifications**:
+  - Build a Website on Google Cloud Skill Badge (Sep 2025)
+  - Getting Started with Google Kubernetes Engine (Sep 2025)
+  - Kubernetes in Google Cloud (Sep 2025)
+  - Managing Security in Google Cloud (Sep 2025)
+  - Cloud Engineering (Jul 2025)
+- **Microsoft Copilot Certifications**:
+  - Copilot in Teams: AI-Powered Collaboration (Apr 2024)
+  - Streamlining Your Work with Microsoft Copilot (Apr 2024)
+- **ITIL Foundation Certification in IT Service Management** (Oct 2016)
 
 ## 📈 GitHub Stats
 
@@ -189,8 +214,8 @@ Soy **Ingeniero de Confiabilidad de Sitios** y **Analista Senior de Soporte de A
 
 ### 🗣️ Idiomas
 - 🇧🇷 **Portugués**: Nativo
-- 🇺🇸 **Inglés**: Competencia Profesional Completa B1+
-- 🇪🇸 **Español**: Competencia Profesional B1
+- 🇺🇸 **Inglés**: Avanzado (B1+)
+- 🇪🇸 **Español**: Intermedio (B1)
 
 ## 💼 Experiencia Profesional
 
@@ -256,11 +281,19 @@ Soy **Ingeniero de Confiabilidad de Sitios** y **Analista Senior de Soporte de A
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img src="https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white" alt="OpenShift"/></a>
 <a href="https://rancher.com/" target="_blank"><img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/></a>
 
-### 🏆 Certificaciones
-- **ITIL® Foundation 4**
-- **Entrenamiento Anual de Código de Ética SEC**
-- **Certificaciones de Microsoft Copilot**
-- **Metodologías Ágiles y en Cascada**
+### 🏆 Certificaciones Recientes (2024-2025)
+- **Salesforce Certified AI Associate** (Ene 2025)
+- **Elasticsearch Essential Training** (Ago 2025)
+- **Certificaciones de Google Cloud Platform**:
+  - Build a Website on Google Cloud Skill Badge (Sep 2025)
+  - Getting Started with Google Kubernetes Engine (Sep 2025)
+  - Kubernetes in Google Cloud (Sep 2025)
+  - Managing Security in Google Cloud (Sep 2025)
+  - Cloud Engineering (Jul 2025)
+- **Certificaciones de Microsoft Copilot**:
+  - Copilot in Teams: AI-Powered Collaboration (Abr 2024)
+  - Streamlining Your Work with Microsoft Copilot (Abr 2024)
+- **ITIL Foundation Certification in IT Service Management** (Oct 2016)
 
 ## 📈 Estadísticas de GitHub
 
@@ -354,8 +387,8 @@ Sou **Engenheiro de Confiabilidade de Sites** e **Analista Sênior de Suporte de
 
 ### 🗣️ Idiomas
 - 🇧🇷 **Português**: Nativo
-- 🇺🇸 **Inglês**: Proficiência Profissional Completa B1+
-- 🇪🇸 **Espanhol**: Proficiência Profissional B1
+- 🇺🇸 **Inglês**: Avançado (B1+)
+- 🇪🇸 **Espanhol**: Intermediário (B1)
 
 ## 💼 Experiência Profissional
 
@@ -421,11 +454,19 @@ Sou **Engenheiro de Confiabilidade de Sites** e **Analista Sênior de Suporte de
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img src="https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white" alt="OpenShift"/></a>
 <a href="https://rancher.com/" target="_blank"><img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/></a>
 
-### 🏆 Certificações
-- **ITIL® Foundation 4**
-- **Treinamento Anual de Código de Ética SEC**
-- **Certificações Microsoft Copilot**
-- **Metodologias Ágeis e Cascata**
+### 🏆 Certificações Recentes (2024-2025)
+- **Salesforce Certified AI Associate** (Jan 2025)
+- **Elasticsearch Essential Training** (Ago 2025)
+- **Certificações Google Cloud Platform**:
+  - Build a Website on Google Cloud Skill Badge (Set 2025)
+  - Getting Started with Google Kubernetes Engine (Set 2025)
+  - Kubernetes in Google Cloud (Set 2025)
+  - Managing Security in Google Cloud (Set 2025)
+  - Cloud Engineering (Jul 2025)
+- **Certificações Microsoft Copilot**:
+  - Copilot in Teams: AI-Powered Collaboration (Abr 2024)
+  - Streamlining Your Work with Microsoft Copilot (Abr 2024)
+- **ITIL Foundation Certification in IT Service Management** (Out 2016)
 
 ## 📈 Estatísticas do GitHub
 
