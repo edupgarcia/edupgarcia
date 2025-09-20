@@ -18,6 +18,7 @@ This document summarizes the comprehensive resume modernization and multilingual
 ## ✅ **Completed Tasks**
 
 ### **Phase 1: Resume Cleanup & Deduplication**
+
 - ✅ **Removed extensive duplications** from original resume.md (reduced from 1,092 to 378 lines)
 - ✅ **Reorganized structure** with logical professional sections
 - ✅ **Standardized formatting** with consistent markdown structure
@@ -25,6 +26,7 @@ This document summarizes the comprehensive resume modernization and multilingual
 - ✅ **Highlighted key achievements** with proper emphasis formatting
 
 ### **Phase 2: README.md Synchronization** 
+
 - ✅ **Updated professional experience** with current EPAM Systems role details
 - ✅ **Added recent certifications** (2024-2025) including Salesforce AI Associate and Google Cloud Platform
 - ✅ **Corrected language proficiency levels** to match resume standards
@@ -32,6 +34,7 @@ This document summarizes the comprehensive resume modernization and multilingual
 - ✅ **Maintained multilingual format** (English, Spanish, Portuguese) in README.md
 
 ### **Phase 3: Multilingual Resume Creation**
+
 - ✅ **Created Spanish version** (`resume-es.md`) - Currículum Vitae
 - ✅ **Created Brazilian Portuguese version** (`resume-pt-br.md`) - Currículo  
 - ✅ **Maintained English version** (`resume-en.md`) as reference
@@ -41,22 +44,25 @@ This document summarizes the comprehensive resume modernization and multilingual
 ## 📁 **Files Created/Updated**
 
 ### **Resume Files**
-| File | Language | Status | Description |
-|------|----------|--------|-------------|
-| `resume-en.md` | English | ✅ Reference | Professional English resume |
-| `resume-es.md` | Spanish | 🆕 Created | Spanish (Spain) translation |
-| `resume-pt-br.md` | Brazilian Portuguese | 🆕 Created | Brazilian Portuguese translation |
-| `resume.md` | English | 🔄 Updated | Original file - cleaned and deduplicated |
+
+| File              | Language             | Status      | Description                              |
+| ----------------- | -------------------- | ----------- | ---------------------------------------- |
+| `resume-en.md`    | English              | ✅ Reference | Professional English resume              |
+| `resume-es.md`    | Spanish              | 🆕 Created   | Spanish (Spain) translation              |
+| `resume-pt-br.md` | Brazilian Portuguese | 🆕 Created   | Brazilian Portuguese translation         |
+| `resume.md`       | English              | 🔄 Updated   | Original file - cleaned and deduplicated |
 
 ### **Profile Files**
-| File | Status | Description |
-|------|--------|-------------|
-| `README.md` | 🔄 Updated | Multilingual GitHub profile with current information |
-| `RESUME_PROJECT_SUMMARY.md` | 🆕 Created | This project documentation |
+
+| File                        | Status    | Description                                          |
+| --------------------------- | --------- | ---------------------------------------------------- |
+| `README.md`                 | 🔄 Updated | Multilingual GitHub profile with current information |
+| `RESUME_PROJECT_SUMMARY.md` | 🆕 Created | This project documentation                           |
 
 ## 🌍 **Multilingual Features Implemented**
 
 ### **Spanish Version (resume-es.md)**
+
 - **Professional Title**: Currículum Vitae
 - **Target Markets**: Spain, Latin America, Spanish-speaking international companies
 - **Key Adaptations**:
@@ -66,6 +72,7 @@ This document summarizes the comprehensive resume modernization and multilingual
   - Cultural business context preserved
 
 ### **Brazilian Portuguese Version (resume-pt-br.md)**
+
 - **Professional Title**: Currículo  
 - **Target Markets**: Brazil, Portuguese-speaking markets
 - **Key Adaptations**:
@@ -77,12 +84,14 @@ This document summarizes the comprehensive resume modernization and multilingual
 ## 📊 **Technical Achievements**
 
 ### **Resume Optimization Results**
+
 - **File Size Reduction**: 65% smaller (1,092 → 378 lines) while retaining all important information
 - **Duplication Removal**: Eliminated 100% of redundant content
 - **Readability Improvement**: Professional structure with clear sections and consistent formatting
 - **Content Enhancement**: Added key technologies and recent achievements
 
 ### **Accuracy Preservation**
+
 - ✅ **All certification IDs** preserved exactly across translations
 - ✅ **Technical terms** kept in original form where industry standard
 - ✅ **Achievement metrics** maintained precisely (dates, numbers, percentages)
@@ -92,18 +101,21 @@ This document summarizes the comprehensive resume modernization and multilingual
 ## 🔧 **Current Professional Highlights**
 
 ### **Current Role (EPAM Systems)**
+
 - **Position**: SRE Senior Application Support Analyst (Hybrid)
 - **Location**: Málaga, Andalucía, Spain
 - **Duration**: Apr 2024 - Present
 - **Key Technologies**: Solarwinds DPA, Docker, Kibana, Python, GCP, Grafana, PowerShell, Microsoft Copilot
 
 ### **Recent Certifications (2024-2025)**
+
 - **Salesforce Certified AI Associate** (Jan 2025)
 - **Multiple Google Cloud Platform Certifications** (2025)
 - **Elasticsearch Essential Training** (Aug 2025)
 - **Microsoft Copilot Certifications** (Apr 2024)
 
 ### **Language Proficiencies**
+
 - **Portuguese**: Native
 - **English**: Advanced (B1+, IELTS Certified)
 - **Spanish**: Intermediate (B1)
@@ -120,12 +132,14 @@ This document summarizes the comprehensive resume modernization and multilingual
 ## 💼 **Key Project Achievements Highlighted**
 
 ### **AB InBev Projects (2008-2018)**
+
 - **ABV Database**: Built system supporting 500+ Million Hectoliters/Year beer sales
 - **Variable Payment System**: Reduced processing time from 90 to 15 days
 - **Purchase Order Workflows**: Managed US$ 1,000,000+ monthly budget
 - **Process Automation**: Streamlined Accounts Payable/Receivable operations
 
 ### **Technical Projects**
+
 - **SLA Tracking System**: Comprehensive tool for entire SLA process management
 - **Invoice Payment Tracking**: Managed complex payment processing workflows
 - **Kaizen Implementation**: Area restructuring with process optimization
@@ -157,12 +171,14 @@ This document summarizes the comprehensive resume modernization and multilingual
 ## 📝 **Usage Guidelines**
 
 ### **When to Use Each Version**
+
 - **`resume-en.md`**: International opportunities, US/UK companies, global positions
 - **`resume-es.md`**: Spanish companies, Latin American markets, Spanish-speaking roles  
 - **`resume-pt-br.md`**: Brazilian companies, Portuguese-speaking markets
 - **`README.md`**: GitHub profile showcase with comprehensive multilingual presentation
 
 ### **Maintenance Recommendations**
+
 - **Update all versions simultaneously** when adding new experience or certifications
 - **Maintain consistency** in technical details across all language versions
 - **Review translations periodically** to ensure cultural relevance
