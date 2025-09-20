@@ -25,7 +25,7 @@ This document summarizes the comprehensive resume modernization and multilingual
 - ✅ **Enhanced readability** with clear headers and bullet points
 - ✅ **Highlighted key achievements** with proper emphasis formatting
 
-### **Phase 2: README.md Synchronization** 
+### **Phase 2: README.md Synchronization**
 
 - ✅ **Updated professional experience** with current EPAM Systems role details
 - ✅ **Added recent certifications** (2024-2025) including Salesforce AI Associate and Google Cloud Platform
@@ -165,7 +165,7 @@ This document summarizes the comprehensive resume modernization and multilingual
 
 - **LinkedIn**: [eduardopereiragarcia](https://linkedin.com/in/eduardopereiragarcia)
 - **GitHub**: [edupgarcia](https://github.com/edupgarcia)
-- **Email**: edupgarcia@proton.me
+- **Email**: <edupgarcia@proton.me>
 - **Phone**: +34 602 00 86 15
 
 ## 📝 **Usage Guidelines**
