@@ -29,8 +29,8 @@ Engenheiro de Confiabilidade de Sites (SRE) e Suporte de Aplicações
 
 ### Monitoramento e Infraestrutura
 
-- Dynatrace, Grafana, ***InfluxDB***, Kibana
 - ***Docker***, ***Kubernetes***, Rancher, OpenShift
+- Dynatrace, Grafana, ***InfluxDB***, Kibana
 - Solarwinds DPA
 
 ### Sistemas Operacionais
@@ -39,13 +39,13 @@ Engenheiro de Confiabilidade de Sites (SRE) e Suporte de Aplicações
 
 ### Linguagens de Programação
 
-- Go/Golang, Dart/Flutter, **Python**
 - **VBA**, C#, JavaScript, NodeJS
+- Go/Golang, Dart/Flutter, **Python**
 
 ### Bancos de Dados
 
-- Redis, MongoDB, **MySQL**, PostgreSQL
 - **SQLite**, SQL Server
+- Redis, MongoDB, **MySQL**, PostgreSQL
 
 ### Business Intelligence e Ferramentas
 
@@ -142,7 +142,7 @@ Dez 2013 - Set 2015 • 1 ano 10 meses
 - ***Reduzi o tempo de aquisição de 90 para 15 dias e processamento de folha de pagamento de 4 para 1 dia***
 - **Tecnologias-Chave**: C#, ASP.NET MVC, SQL Server, Visual Basic
 
-#### Engenheiro de Software
+#### Engenheiro de Software 2
 
 Jan 2010 - Nov 2013 • 3 anos 11 meses
 
@@ -150,7 +150,7 @@ Jan 2010 - Nov 2013 • 3 anos 11 meses
 - ***Gerenciei ~1.000 solicitações PRs-POs com orçamento mensal de mais de US$ 1.000.000,00***
 - **Tecnologias-Chave**: SharePoint, VBA, Visual Basic, Excel
 
-#### Engenheiro Junior de Software
+#### Engenheiro Junior de Software 2
 
 Dez 2007 - Dez 2009 • 2 anos 1 mês
 
@@ -175,7 +175,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Meio período • Fev 2
 
 ### Início de Carreira
 
-#### Engenheiro de Software
+#### Engenheiro de Software 1
 
 ##### Proxima Software and Services • Tempo integral • Jul 2003 - Jan 2006 • Piracicaba, SP
 
@@ -185,7 +185,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Meio período • Fev 2
 - Foco em indústrias de cana-de-açúcar e etanol
 - **Tecnologias-Chave**: Oracle 8i, Borland Delphi, Basic
 
-#### Engenheiro Junior de Software
+#### Engenheiro Junior de Software 1
 
 ##### Sjmo Assessoria • Tempo integral • Jan 2003 - Jul 2003 • Piracicaba, SP
 

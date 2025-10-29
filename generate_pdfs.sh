@@ -25,7 +25,7 @@ processed=0
 failed=0
 
 # Find and convert all .md files
-for md_file in *.md; do
+for md_file in resume*.md; do
     if [ -f "$md_file" ]; then
         # Get filename without extension
         filename=$(basename "$md_file" .md)
@@ -33,44 +33,13 @@ for md_file in *.md; do
         
         echo -e "${BLUE}Converting: ${NC}$md_file ${BLUE}→${NC} $pdf_output"
         
-        # Try pdflatex first, fallback to xelatex for Unicode support
-        echo -e "${YELLOW}  Attempting with pdflatex...${NC}"
-        if pandoc "$md_file" \
-            -o "$pdf_output" \
-            --pdf-engine=pdflatex \
-            --variable=geometry:margin=1in \
-            --variable=fontsize=11pt \
-            --variable=linestretch=1.15 \
-            --variable=colorlinks=true \
-            --variable=linkcolor=blue \
-            --variable=urlcolor=blue \
-            --variable=citecolor=blue \
-            --toc \
-            --standalone 2>/dev/null; then
-            
+        # Convert using xelatex for Unicode support
+        if pandoc "$md_file" -o "$pdf_output" --pdf-engine=xelatex -V geometry:margin=1in 2>/dev/null; then
             echo -e "${GREEN}✓ Successfully converted: $md_file${NC}"
             ((processed++))
         else
-            echo -e "${YELLOW}  pdflatex failed, trying xelatex for Unicode support...${NC}"
-            if pandoc "$md_file" \
-                -o "$pdf_output" \
-                --pdf-engine=xelatex \
-                --variable=geometry:margin=1in \
-                --variable=fontsize=11pt \
-                --variable=linestretch=1.15 \
-                --variable=colorlinks=true \
-                --variable=linkcolor=blue \
-                --variable=urlcolor=blue \
-                --variable=citecolor=blue \
-                --toc \
-                --standalone 2>/dev/null; then
-                
-                echo -e "${GREEN}✓ Successfully converted with xelatex: $md_file${NC}"
-                ((processed++))
-            else
-                echo -e "${RED}✗ Failed to convert: $md_file (tried both pdflatex and xelatex)${NC}"
-                ((failed++))
-            fi
+            echo -e "${RED}✗ Failed to convert: $md_file${NC}"
+            ((failed++))
         fi
         echo
     fi

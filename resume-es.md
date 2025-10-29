@@ -29,8 +29,8 @@ Ingeniero de Confiabilidad de Sistemas (SRE) y Soporte de Aplicaciones
 
 ### Monitoreo e Infraestructura
 
-- Dynatrace, Grafana, ***InfluxDB***, Kibana
 - ***Docker***, ***Kubernetes***, Rancher, OpenShift
+- Dynatrace, Grafana, ***InfluxDB***, Kibana
 - Solarwinds DPA
 
 ### Sistemas Operativos
@@ -39,13 +39,13 @@ Ingeniero de Confiabilidad de Sistemas (SRE) y Soporte de Aplicaciones
 
 ### Lenguajes de Programación
 
-- Go/Golang, Dart/Flutter, **Python**
 - **VBA**, C#, JavaScript, NodeJS
+- Go/Golang, Dart/Flutter, **Python**
 
 ### Bases de Datos
 
-- Redis, MongoDB, **MySQL**, PostgreSQL
 - **SQLite**, SQL Server
+- Redis, MongoDB, **MySQL**, PostgreSQL
 
 ### Business Intelligence y Herramientas
 
@@ -193,7 +193,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Medio tiempo • Feb 20
 - Configuración de aplicación en infraestructura del cliente
 - **Tecnologías Clave**: Visual Basic 6, Microsoft Access
 
-#### Empleado de Entrada de Datos
+#### Auxiliar de Entrada de Datos
 
 ##### The Goodyear Tire & Rubber Company • Contrato • Jul 2002 - Dic 2002 • Área de Campinas
 

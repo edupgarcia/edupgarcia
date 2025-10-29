@@ -29,8 +29,8 @@ SRE and Application Support
 
 ### Monitoring & Infrastructure
 
-- Dynatrace, Grafana, ***InfluxDB***, Kibana
 - ***Docker***, ***Kubernetes***, Rancher, OpenShift
+- Dynatrace, Grafana, ***InfluxDB***, Kibana
 - Solarwinds DPA
 
 ### Operating Systems
@@ -39,13 +39,13 @@ SRE and Application Support
 
 ### Programming Languages
 
-- Go/Golang, Dart/Flutter, **Python**
 - **VBA**, C#, JavaScript, NodeJS
+- Go/Golang, Dart/Flutter, **Python**
 
 ### Databases
 
-- Redis, MongoDB, **MySQL**, PostgreSQL
 - **SQLite**, SQL Server
+- Redis, MongoDB, **MySQL**, PostgreSQL
 
 ### Business Intelligence & Tools
 
@@ -93,7 +93,7 @@ Sep 2022 - Dec 2023 • São Paulo, São Paulo, Brazil
 - Angular (JavaScript) Front-End and Kotlin (Java) Back-End Application Support
 - **Key Technologies**: Rancher, OpenShift, Kubernetes, Docker, InfluxDB, PostgreSQL, ActiveMQ
 
-#### Senior Software Site Reliability Engineer**
+#### Senior Software Site Reliability Engineer
 
 Jul 2021 - Sep 2022 • São Paulo, São Paulo, Brazil (Hybrid)
 
@@ -244,7 +244,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 - **Managing Security in Google Cloud** - Google • Sep 2025 • Credential ID: 18020152
 - **Build a Secure Google Cloud Network** - Google • Aug 2025 • Credential ID: 17492014
 - **Cloud Engineering** - Google • Jul 2025 • Credential ID: 17089634
-- **Essential Google Cloud Infrastructure: Core Services**-Google • Jul 2025 • Credential ID: 16818200
+- **Essential Google Cloud Infrastructure: Core Services** - Google • Jul 2025 • Credential ID: 16818200
 - **Google Cloud Fundamentals: Core Infrastructure** - Google • Jul 2025 • Credential ID: 17086341
 - **Networking in Google Cloud: Fundamentals** - Google • Jul 2025 • Credential ID: 17126202
 - **Essential Google Cloud Infrastructure: Foundation** - Google • Jun 2025 • Credential ID: 16437938
@@ -253,7 +253,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 
 ### Development & Data Science
 
-- **Learning Google Flutter for Mobile Developers** - LinkedIn • May 2021**
+- **Learning Google Flutter for Mobile Developers** - LinkedIn • May 2021
 - **MongoDB Basics** - MongoDB • Dec 2018 • Credential ID: f08f755d-79bf-4a14-9386-75c16bb1
 - **R Programmer Track** - DataCamp • Oct 2018 • Credential ID: 56462
 - **Intro to Python for Data Science** - DataCamp • Jan 2017 • Credential ID: 2114093
@@ -346,14 +346,14 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Part-time • Feb 2005 
 
 ## Awards & Honors
 
-### You Rock Award 2014
+### You Rock Award 2015
 
 #### Global IBS Delivery & Operations • Jun 2015
 
 - Category: Service Operations
 - ***Recognition: Rapid SQL Server issue identification and code restoration for virtual machine***
 
-### You Rock Award 2015
+### You Rock Award 2014
 
 #### Global IBS Delivery & Operations • Mar 2014
 
