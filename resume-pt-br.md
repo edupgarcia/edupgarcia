@@ -142,7 +142,7 @@ Dez 2013 - Set 2015 • 1 ano 10 meses
 - ***Reduzi o tempo de aquisição de 90 para 15 dias e processamento de folha de pagamento de 4 para 1 dia***
 - **Tecnologias-Chave**: C#, ASP.NET MVC, SQL Server, Visual Basic
 
-#### Engenheiro de Software 2
+#### Engenheiro de Software Pleno
 
 Jan 2010 - Nov 2013 • 3 anos 11 meses
 
@@ -150,7 +150,7 @@ Jan 2010 - Nov 2013 • 3 anos 11 meses
 - ***Gerenciei ~1.000 solicitações PRs-POs com orçamento mensal de mais de US$ 1.000.000,00***
 - **Tecnologias-Chave**: SharePoint, VBA, Visual Basic, Excel
 
-#### Engenheiro Junior de Software 2
+#### Engenheiro de Software Júnior
 
 Dez 2007 - Dez 2009 • 2 anos 1 mês
 

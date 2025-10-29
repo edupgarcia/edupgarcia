@@ -175,7 +175,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Medio tiempo • Feb 20
 
 ### Carrera Temprana
 
-#### Ingeniero de Software
+#### Ingeniero Pleno de Software
 
 ##### Proxima Software and Services • Tiempo completo • Jul 2003 - Ene 2006 • Piracicaba, SP
 
@@ -185,7 +185,7 @@ IBRAFEM - Instituto Brasileiro do Futuro Empresário • Medio tiempo • Feb 20
 - Enfoque en industrias de caña de azúcar y etanol
 - **Tecnologías Clave**: Oracle 8i, Borland Delphi, Basic
 
-#### Ingeniero Junior de Software
+#### Ingeniero Júnior de Software
 
 ##### Sjmo Assessoria • Tiempo completo • Ene 2003 - Jul 2003 • Piracicaba, SP
 
