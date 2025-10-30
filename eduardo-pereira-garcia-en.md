@@ -18,8 +18,8 @@ SRE and Application Support
 ### Languages
 
 - **Portuguese**: Native
-- **English**: Advanced (B1+)
-- **Spanish**: Intermediate (B1)
+- **English**: Advanced (B2+)
+- **Spanish**: Intermediate (B1+)
 
 ### Methodologies & Frameworks
 

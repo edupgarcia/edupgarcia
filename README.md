@@ -26,8 +26,8 @@ I'm a **Site Reliability Engineer** and **Senior Application Support Analyst** a
 ### 🗣️ Languages
 
 - 🇧🇷 **Portuguese**: Native
-- 🇺🇸 **English**: Advanced (B1+)
-- 🇪🇸 **Spanish**: Intermediate (B1)
+- 🇺🇸 **English**: Advanced (B2+)
+- 🇪🇸 **Spanish**: Intermediate (B1+)
 
 ## 💼 Professional Experience
 
@@ -249,8 +249,8 @@ Soy **Ingeniero de Confiabilidad de Sitios** y **Analista Senior de Soporte de A
 ### 🗣️ Idiomas
 
 - 🇧🇷 **Portugués**: Nativo
-- 🇺🇸 **Inglés**: Avanzado (B1+)
-- 🇪🇸 **Español**: Intermedio (B1)
+- 🇺🇸 **Inglés**: Avanzado (B2+)
+- 🇪🇸 **Español**: Intermedio (B1+)
 
 ## 💼 Experiencia Profesional
 
@@ -454,8 +454,8 @@ Sou **Engenheiro de Confiabilidade de Sites** e **Analista Sênior de Suporte de
 ### 🗣️ Idiomas
 
 - 🇧🇷 **Português**: Nativo
-- 🇺🇸 **Inglês**: Avançado (B1+)
-- 🇪🇸 **Espanhol**: Intermediário (B1)
+- 🇺🇸 **Inglês**: Avançado (B2+)
+- 🇪🇸 **Espanhol**: Intermediário (B1+)
 
 ## 💼 Experiência Profissional
 

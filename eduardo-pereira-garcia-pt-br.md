@@ -18,8 +18,8 @@ Engenheiro de Confiabilidade de Sites (SRE) e Suporte de Aplicações
 ### Idiomas
 
 - **Português**: Nativo
-- **Inglês**: Avançado (B1+)
-- **Espanhol**: Intermediário (B1)
+- **Inglês**: Avançado (B2+)
+- **Espanhol**: Intermediário (B1+)
 
 ### Metodologias e Frameworks
 

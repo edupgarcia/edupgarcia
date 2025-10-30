@@ -18,8 +18,8 @@ Ingeniero de Confiabilidad de Sistemas (SRE) y Soporte de Aplicaciones
 ### Idiomas
 
 - **Portugués**: Nativo
-- **Inglés**: Avanzado (B1+)
-- **Español**: Intermedio (B1)
+- **Inglés**: Avanzado (B2+)
+- **Español**: Intermedio (B1+)
 
 ### Metodologías y Frameworks
 

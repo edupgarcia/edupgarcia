@@ -24,8 +24,35 @@ fi
 processed=0
 failed=0
 
-# Find and convert all .md files
-for md_file in resume*.md; do
+# Ensure required tools are installed (pandoc, xelatex) using `which`
+missing=()
+if ! which pandoc >/dev/null 2>&1; then
+    missing+=("pandoc")
+fi
+if ! which xelatex >/dev/null 2>&1; then
+    missing+=("xelatex")
+fi
+
+if [ ${#missing[@]} -eq 0 ]; then
+    echo -e "${GREEN}All required tools are already installed.${NC}"
+else
+    echo -e "${YELLOW}Missing: ${missing[*]}${NC}"
+    read -p "Install missing packages now? [Y/n] " ans
+    ans=${ans:-Y}
+    if [[ $ans =~ ^[Yy]$ ]]; then
+        if which apt-get >/dev/null 2>&1; then
+            echo -e "${BLUE}Using apt to install packages...${NC}"
+            sudo apt-get update
+            sudo apt-get install -y pandoc texlive-xetex
+        else
+            echo -e "${RED}No supported package manager found. Please install: ${missing[*]}${NC}"
+        fi
+    else
+        echo -e "${YELLOW}Skipping installation; conversion may fail if dependencies are missing.${NC}"
+    fi
+fi
+
+for md_file in eduardo-pereira-garcia-*.md; do
     if [ -f "$md_file" ]; then
         # Get filename without extension
         filename=$(basename "$md_file" .md)
